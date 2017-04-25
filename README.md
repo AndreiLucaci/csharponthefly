@@ -7,5 +7,7 @@ C# on the fly provides a quick way of writing c# code on the fly
 
 If you have any feedback, please redirect them in the issues tab.
 
-The source-code is made private for the time being. The alpha version can be downloaded from here: http://andreilucaci.ro/Services/CSharpOnTheFly
+The source-code is made private for the time being. The alpha version 0.1.0.1 can be downloaded from here: http://andreilucaci.ro/Services/CSharpOnTheFly
 
+Or grab the latest alpha version 0.1.0.3:
+https://app.box.com/s/jkisolgkr5pbegkt39pu1pporbcwtfr9
