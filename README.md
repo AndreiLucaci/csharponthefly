@@ -12,7 +12,11 @@ The source-code is made private for the time being. The alpha version 0.1.0.1 ca
 Or grab the latest alpha version 0.1.0.3:
 https://app.box.com/s/jkisolgkr5pbegkt39pu1pporbcwtfr9
 
-Changelog:
+Changelog 0.1.0.3:
 - added save option for file extension of name .csf
 - added open option for file extension of name .csf
 - removed unnecessary parts from the GUI
+
+Changelog 0.1.0.1:
+- added first version of C# on the fly
+- added basic compilation and C# 6.0 support
